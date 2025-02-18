@@ -21,6 +21,14 @@ The `ant` CLI tool must be installed and in your system PATH. Follow the install
 
 sudo apt-get install python3-tk python3-pil python3-pil.imagetk
 
+### 4. File Storage Locations
+
+The application stores its data in the following locations:
+- History and uploads data: `~/.local/share/autonomi/client/gui/`
+  - Operations history: `operations_history.txt`
+  - File uploads tracking: `file_uploads.json`
+- Register signing key: `~/.local/share/autonomi/client/register_signing_key`
+
 A graphical user interface wrapper for the Autonomi Network CLI tool, making the decentralized internet more accessible to everyone.
 
 ## Overview
@@ -114,4 +122,5 @@ Created by NAFO Radio
 For more information about Autonomi Network:
 - [Official Website](https://autonomi.com/)
 - [Documentation](https://autonomi.com/docs)
-- [White Paper](https://autonomi.com/whitepaper) 
+- [White Paper](https://autonomi.com/whitepaper)
+- [Project Repository](https://github.com/NAFORadio/Autonomi_GUI) 
