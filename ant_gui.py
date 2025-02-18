@@ -423,6 +423,7 @@ A graphical interface for the Autonomi Network CLI
 
 Created by NAFO radio
 Licensed under MIT License
+Project: https://github.com/NAFORadio/Autonomi_GUI
 
 Support the development:"""
         
