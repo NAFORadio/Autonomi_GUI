@@ -1,5 +1,26 @@
 # Autonomi Network GUI
 
+## Support Development
+
+ETH: 0x4AcD49Aca41E31aa54f43e3109e7b0dB47369B65
+
+## Requirements
+
+### 1. Autonomi CLI
+The `ant` CLI tool must be installed and in your system PATH. Follow the installation guide at [Autonomi CLI Documentation](https://github.com/maidsafe/autonomi/blob/main/ant-cli/README.md#installation)
+
+### 2. Python Requirements
+- Python 3.x
+- Tkinter (GUI framework)
+- PIL/Pillow (Image handling)
+- PIL.ImageTk (Image display in GUI)
+
+### 3. System Packages
+
+#### Debian/Ubuntu:
+
+sudo apt-get install python3-tk python3-pil python3-pil.imagetk
+
 A graphical user interface wrapper for the Autonomi Network CLI tool, making the decentralized internet more accessible to everyone.
 
 ## Overview
@@ -83,10 +104,6 @@ This is a community contribution to the Autonomi Network ecosystem. For producti
 ## License
 
 MIT License
-
-## Support Development
-
-ETH: 0x4AcD49Aca41E31aa54f43e3109e7b0dB47369B65
 
 ## Credits
 
