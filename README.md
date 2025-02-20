@@ -1,5 +1,14 @@
 # Autonomi Network GUI
+***
+UPDATE
+Vault support is "questionable" as I didn't totally understand what was going on with them when I made the GUI. 
 
+I'm working on a better implementation of the vaults.
+
+Also, I'm trying to buffer files in memory on download from Autonomi so I can do something like, stream music or movies. 
+I don't know if this technically possible but since I don't know how to program, I don't really care. It is Cursors problem to solve and mine to endure. 
+
+***
 ## Support Development
 
 ETH: 0x4AcD49Aca41E31aa54f43e3109e7b0dB47369B65
