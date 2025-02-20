@@ -5,7 +5,7 @@ Vault support is "questionable" as I didn't totally understand what was going on
 
 I'm working on a better implementation of the vaults.
 
-Also, I'm trying to buffer files in memory on download from Autonomi so I can do something like, stream music or movies. 
+Also, I'm trying to buffer files in memory on download from Autonomi so I can do something like, stream music or movies. This way, the files never hit the disk. 
 I don't know if this technically possible but since I don't know how to program, I don't really care. It is Cursors problem to solve and mine to endure. 
 
 ***
